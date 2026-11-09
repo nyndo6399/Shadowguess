@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Guess - NHUY",
+  "description": "Trò chơi học từ vựng tương tác qua bóng hình bí ẩn: Quản lý lớp học lưu trữ dữ liệu, thêm ảnh qua URL hoặc dán clipboard (Ctrl+V), hỗ trợ phát âm tiếng Anh và tuỳ chỉnh vị trí trên hoạt cảnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
